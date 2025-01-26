@@ -29,7 +29,7 @@ if ($stmt) {
 
     // Executar o comando
     if ($stmt->execute()) {
-        header("Location: login.html");
+        header("Location: ../../login.html");
         echo "<script>alert('Usuário cadastrado com sucesso!')</script>";
     } else {
         echo "<script>alert('Erro ao cadastrar usuário: '" . $stmt->error.")</script>";

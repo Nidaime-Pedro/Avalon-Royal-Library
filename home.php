@@ -26,7 +26,7 @@ if (!$result) {
         
         <div class="teal nav-wrapper">
             <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons"><svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24"><path fill="currentColor" d="M3 18v-2h18v2zm0-5v-2h18v2zm0-5V6h18v2z"/></svg></i></a>
-            <a href="#" class="brand-logo">SIGAAP</a>
+            <a href="#" class="brand-logo">TESTE</a>
             
             <ul class="left hide-on-med-and-down">
                 <li><a href="#">Link 1</a></li>

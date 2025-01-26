@@ -36,7 +36,7 @@ if (!$livros) {
     </nav>
 
     <ul class="sidenav" id="mobile-demo">
-        <h1>SIGAAP</h1>
+        <h1>TESTE</h1>
         <li><a href="home.php">Home</a></li>
         <li class="current"><a href="dashboard.html">Dashboard</a></li>
         <li><a href="upload_book.php">Upload Book</a></li>
